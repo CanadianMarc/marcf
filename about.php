@@ -4,13 +4,12 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 	    <link rel="stylesheet" type="text/css" href="Resources/style.css" />
-		<title>Marc</title>
+		<title>About Me</title>
 	</head>
 	<body>
 		<header>
 			<?php require_once("Resources/nav.php"); ?>
 		</header>
-        <h1> This page is under development! </h1>
-        Current project: Making an interactive navbar that works on all devices!
     </body>
+    This web page is currently under development.
 </html>
