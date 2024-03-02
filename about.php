@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/x-icon" href="Resources/favicon.png">
 	    <link rel="stylesheet" type="text/css" href="Resources/style.css" />
 		<title>About Me</title>
 	</head>
