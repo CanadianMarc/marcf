@@ -7,7 +7,7 @@
 		<title>Marc</title>
 	</head>
 	<body>
-		<header>
+		<header class="home">
 			<?php require_once("Resources/nav.php"); ?>
 		</header>
         <h1> This page is under development! </h1>

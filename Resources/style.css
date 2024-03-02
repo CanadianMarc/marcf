@@ -33,7 +33,7 @@ mbl {
 }
 
 nav ul li, mbl li {
-	background: rgb(0, 204, 255);
+	background: rgb(0, 157, 255);
     border: 0px;
 	padding: 10px;
 	margin: 0px;
@@ -48,7 +48,7 @@ nav ul a, mbl a {
 
 #mobile {
     display: none;
-    background: rgb(0, 204, 255);
+    background: rgb(0, 157, 255);
     color: white;
     align-items: center;
     padding: 10px;
@@ -74,4 +74,21 @@ nav ul a, mbl a {
     mbl {
         display: none !important; 
     }
+}
+
+/** for highlighting which tab **/
+.home li.home,
+.about li.about,
+.projects li.projects,
+.extra li.extra
+{
+	background-color: rgb(0, 107, 173);
+}
+
+.home li.home,
+.about li.about,
+.projects li.projects,
+.extra li.extra
+{
+	color: rgb(0, 157, 255);
 }

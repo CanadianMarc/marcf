@@ -7,7 +7,7 @@
 		<title>Projects</title>
 	</head>
 	<body>
-		<header>
+        <header class="projects">
 			<?php require_once("Resources/nav.php"); ?>
 		</header>
     </body>

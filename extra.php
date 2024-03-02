@@ -7,7 +7,7 @@
 		<title>Extra</title>
 	</head>
 	<body>
-		<header>
+		<header class="extra">
 			<?php require_once("Resources/nav.php"); ?>
 		</header>
     </body>

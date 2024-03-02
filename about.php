@@ -7,7 +7,7 @@
 		<title>About Me</title>
 	</head>
 	<body>
-		<header>
+        <header class="about">
 			<?php require_once("Resources/nav.php"); ?>
 		</header>
     </body>
