@@ -44,8 +44,7 @@ nav ul li, mbl li {
 nav ul a, mbl a {
     text-align: center;
     text-decoration: none;
-    color: white;
-    caret-color: transparent;
+    color: white
 }
 
 #mobile {
@@ -55,8 +54,6 @@ nav ul a, mbl a {
     align-items: center;
     padding: 10px;
     cursor: pointer;
-    caret-color: transparent;
-
 }
 
 
